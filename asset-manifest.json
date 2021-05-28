@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/supermercado-mr/static/css/main.45fa044d.chunk.css",
+    "main.js": "/supermercado-mr/static/js/main.d3d36cac.chunk.js",
+    "main.js.map": "/supermercado-mr/static/js/main.d3d36cac.chunk.js.map",
+    "runtime-main.js": "/supermercado-mr/static/js/runtime-main.f1ba097a.js",
+    "runtime-main.js.map": "/supermercado-mr/static/js/runtime-main.f1ba097a.js.map",
+    "static/js/2.bb5fd06e.chunk.js": "/supermercado-mr/static/js/2.bb5fd06e.chunk.js",
+    "static/js/2.bb5fd06e.chunk.js.map": "/supermercado-mr/static/js/2.bb5fd06e.chunk.js.map",
+    "static/js/3.4e020efe.chunk.js": "/supermercado-mr/static/js/3.4e020efe.chunk.js",
+    "static/js/3.4e020efe.chunk.js.map": "/supermercado-mr/static/js/3.4e020efe.chunk.js.map",
+    "index.html": "/supermercado-mr/index.html",
+    "static/css/main.45fa044d.chunk.css.map": "/supermercado-mr/static/css/main.45fa044d.chunk.css.map",
+    "static/js/2.bb5fd06e.chunk.js.LICENSE.txt": "/supermercado-mr/static/js/2.bb5fd06e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ba097a.js",
+    "static/js/2.bb5fd06e.chunk.js",
+    "static/css/main.45fa044d.chunk.css",
+    "static/js/main.d3d36cac.chunk.js"
+  ]
+}
